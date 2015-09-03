@@ -1,6 +1,6 @@
 # rkustner-aws
 
-this is my collection if Amazon Webservices related code snippets
+this is my collection of Amazon Webservices related code snippets
 
 feel free to use them
 
